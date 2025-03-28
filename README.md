@@ -17,8 +17,15 @@
 - 🖥️ **Código-fonte do modelo de ML**
 - 📊 **Conjunto de dados utilizado nos experimentos**
 
+  ## Tecnologias Utilizadas
+  - Python - versão 3.12.x
+  - Software Anaconda
+  - Wireshark/Tshark
+  - Hping3
+  - Jupyter Notebook
+
 ## 📜 Licença
-Este projeto está sob a licença **MIT** para o código-fonte e **CC BY-NC-SA 4.0** para os documentos.
+Este projeto está sob a licença **CC BY-NC-SA 4.0** para o código-fonte e os documentos.
 
 ---
 
