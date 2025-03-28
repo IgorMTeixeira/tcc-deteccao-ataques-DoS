@@ -1,5 +1,6 @@
 #  Detecção de Ataques DoS com Machine Learning
-
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?logo=anaconda&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12.5-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
